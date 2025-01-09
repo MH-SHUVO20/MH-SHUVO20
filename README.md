@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MH-SHUVO20&label=Profile%20views&color=0e75b6&style=flat" alt="MH-SHUVO20" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@MH_SHUVO20" target="blank"><img src="https://img.shields.io/twitter/follow/MH_SHUVO20?logo=twitter&style=for-the-badge" alt="@MH_SHUVO20" /></a> </p>
+<p align="left"> <a href="https://x.com/mehedi__shuvo" target="blank"><img src="https://img.shields.io/twitter/follow/MH_SHUVO20?logo=twitter&style=for-the-badge" alt="@MH_SHUVO20" /></a> </p>
 
 - 📫 How to reach me **mdmehedihasanshuvo994@gmail.com**
 
-- 🔭 I’m currently working on [AIUB Shuttle Management System](https://github.com/Mahbubul-Islam/AIUB_SHUTTLE_MANAGEMENT_SYSTEM1) - An innovative solution for [Shuttle Management].
+- 🔭 I’m currently working on [AIUB Shuttle Management System](https://github.com/Mahbubul-Islam/AIUB_SHUTTLE_MANAGEMENT_SYSTEM1) - An innovative solution for Shuttle Management.
 - 🌱 I’m currently learning **Machine Learning, Web Development, Ai, C#** to enhance my skills and build better applications.
 - 👯 I’m looking to collaborate on **Open Source Projects** that make a difference.
 - 💬 Ask me about **Software Development, Problem Solving, and anything tech-related**.
@@ -35,7 +35,3 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MH-SHUVO20&show_icons=true&locale=en" alt="MH-SHUVO20" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MH-SHUVO20" alt="MH-SHUVO20" /></p>

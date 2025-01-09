@@ -1,4 +1,4 @@
-[![Header](https://media.giphy.com/media/l0HlRm1v3bYYO9k1S/giphy.gif)](https://github.com/MH-SHUVO20)
+[![Header](https://media.giphy.com/media/3oFzmkkwfOGlzZ0gxi/giphy.gif)](https://github.com/MH-SHUVO20)
 
 <h1 align="center">Hi 👋, I'm MH SHUVO</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MH-SHUVO20&label=Profile%20views&color=0e75b6&style=flat" alt="MH-SHUVO20" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@MH_SHUVO20" target="blank"><img src="https://img.shields.io/twitter/follow/MH_SHUVO20?logo=twitter&style=for-the-badge" alt="@MH_SHUVO20" /></a> </p>
+- 📫 How to reach me **mdmehedihasanshuvo994@gmail.com**
 
 - 🔭 I’m currently working on [AIUB Shuttle Management System](https://github.com/Mahbubul-Islam/AIUB_SHUTTLE_MANAGEMENT_SYSTEM1) - An innovative solution for [Shuttle Management].
 - 🌱 I’m currently learning **Machine Learning, Web Development, Ai, C#** to enhance my skills and build better applications.
 - 👯 I’m looking to collaborate on **Open Source Projects** that make a difference.
 - 💬 Ask me about **Software Development, Problem Solving, and anything tech-related**.
-- 📫 How to reach me **mdmehedihasanshuvo994@gmail.com**
-- ⚡ Fun fact **I love playing online games.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

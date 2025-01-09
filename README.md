@@ -1,6 +1,6 @@
-[![Header](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)](https://github.com/MH-SHUVO20)
+[![Header](https://media.giphy.com/media/l0HlRm1v3bYYO9k1S/giphy.gif)](https://github.com/MH-SHUVO20)
 
-<h1 align="center">Hi 👋, I'm MH-SHUVO20</h1>
+<h1 align="center">Hi 👋, I'm MH SHUVO</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -8,14 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/@MH_SHUVO20" target="blank"><img src="https://img.shields.io/twitter/follow/MH_SHUVO20?logo=twitter&style=for-the-badge" alt="@MH_SHUVO20" /></a> </p>
 
-- 🔭 I’m currently working on [Awesome Project](link-to-project) - An innovative solution for [brief description].
-- 🌱 I’m currently learning **Machine Learning, Web Development** to enhance my skills and build better applications.
+- 🔭 I’m currently working on [AIUB Shuttle Management System](https://github.com/Mahbubul-Islam/AIUB_SHUTTLE_MANAGEMENT_SYSTEM1) - An innovative solution for [Shuttle Management].
+- 🌱 I’m currently learning **Machine Learning, Web Development, Ai, C#** to enhance my skills and build better applications.
 - 👯 I’m looking to collaborate on **Open Source Projects** that make a difference.
-- 🤝 I’m looking for help with **[Specific Area]** to improve my understanding and efficiency.
 - 💬 Ask me about **Software Development, Problem Solving, and anything tech-related**.
-- 📫 How to reach me **mh.shuvo20@example.com**
-- ⚡ Fun fact **I love solving puzzles and playing chess.**
-- 🚀 Check out my C# project: [AIUB Shuttle Management System](https://github.com/Mahbubul-Islam/AIUB_SHUTTLE_MANAGEMENT_SYSTEM1)
+- 📫 How to reach me **mdmehedihasanshuvo994@gmail.com**
+- ⚡ Fun fact **I love playing online games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

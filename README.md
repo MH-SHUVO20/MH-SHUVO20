@@ -1,4 +1,4 @@
-[![Header](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)](https://github.com/MH-SHUVO20)
+[![Header](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)](https://github.com/MH-SHUVO20)
 
 <h1 align="center">Hi 👋, I'm MH-SHUVO20</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
@@ -15,6 +15,7 @@
 - 💬 Ask me about **Software Development, Problem Solving, and anything tech-related**.
 - 📫 How to reach me **mh.shuvo20@example.com**
 - ⚡ Fun fact **I love solving puzzles and playing chess.**
+- 🚀 Check out my C# project: [AIUB Shuttle Management System](https://github.com/Mahbubul-Islam/AIUB_SHUTTLE_MANAGEMENT_SYSTEM1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,10 +38,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MH-SHUVO20&show_icons=true&locale=en&layout=compact" alt="MH-SHUVO20" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MH-SHUVO20&show_icons=true&locale=en" alt="MH-SHUVO20" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MH-SHUVO20" alt="MH-SHUVO20" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MH-SHUVO20&show_icons=true&locale=en" alt="MH-SHUVO20" /></p>
 

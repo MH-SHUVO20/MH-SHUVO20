@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MH%20SHUVO&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MH%20SHUVO&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20AI%2FML%20Engineer%20%26%20AI%20Researcher%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=55&descSize=16" />
 
 </div>
 
@@ -17,17 +17,20 @@
 ## 👨‍💻 About Me
 
 ```yaml
-Name     : Md. Mehedi Hasan Shuvo
-From     : Bangladesh 🇧🇩
-Role     : Full Stack Developer & ML Enthusiast
-Focus    : Building impactful, scalable solutions
-Status   : Open to collaborate on Open Source
+Name      : Md. Mehedi Hasan Shuvo
+Location  : Bangladesh 🇧🇩
+Goal      : Aspiring AI/ML Engineer & AI Researcher
+Interests : Machine Learning · NLP · Deep Learning
+            Computer Vision · AI Agents · LLMs
+Status    : Open to Research Collaborations
 ```
 
-- 🔭 Currently working on **[AIUB Shuttle Management System](https://github.com/Mahbubul-Islam/AIUB_SHUTTLE_MANAGEMENT_SYSTEM1)**
-- 🌱 Learning **Machine Learning · Web Development · AI · C#**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Software Development & Problem Solving**
+- 🔬 Aspiring **AI/ML Engineer & AI Researcher**
+- 🤖 Building **AI Agents** — LinkedIn Agent, Multi-Tool AI Agent BD
+- 🧬 Exploring **NLP, Transformers, Sentiment Analysis, Clustering**
+- 📊 Working on **EDA, Churn Prediction, Housing Price & Data Science**
+- 🌱 Currently learning **Deep Learning · LLMs · AI Research Methods**
+- 👯 Looking to collaborate on **AI/ML Open Source Research Projects**
 - 📫 Reach me at **mdmehedihasanshuvo994@gmail.com**
 
 <br clear="right"/>
@@ -43,6 +46,8 @@ Status   : Open to collaborate on Open Source
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,6 +57,37 @@ Status   : Open to collaborate on Open Source
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🤖 AI / ML / Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Research & Projects
+
+<div align="center">
+
+| Project | Stack | Area |
+|---|---|---|
+| <a href="https://github.com/MH-SHUVO20/Linked-In-agent">🤖 LinkedIn AI Agent</a> | Python · Jupyter | AI Agents |
+| <a href="https://github.com/MH-SHUVO20/multi-tool-ai-agent-bd">🛠️ Multi-Tool AI Agent BD</a> | Python · Jupyter | AI Agents |
+| <a href="https://github.com/MH-SHUVO20/Automated-AI-Article-Analyzer">📰 Automated AI Article Analyzer</a> | Python | NLP · AI |
+| <a href="https://github.com/MH-SHUVO20/Sentiment-Analysis-on-IMDB-Movie-Reviews">🎬 Sentiment Analysis — IMDB Reviews</a> | Python · Jupyter | NLP · ML |
+| <a href="https://github.com/MH-SHUVO20/Fine-Tuning-Transformer-Models-for-Question-Answering">🤗 Fine-Tuning Transformers for QA</a> | Python · Jupyter | NLP · Deep Learning |
+| <a href="https://github.com/MH-SHUVO20/Unsupervised-Learning-on-the-Iris-Dataset-Clustering-Algorithms-and-PCA">🌸 Unsupervised Learning — Iris (PCA + Clustering)</a> | Python · Jupyter | ML · Unsupervised |
+| <a href="https://github.com/MH-SHUVO20/Customer-Churn-Prediction-using-Machine-Learning">📉 Customer Churn Prediction</a> | Python · Jupyter | ML · Classification |
+| <a href="https://github.com/MH-SHUVO20/Housing-Price-Prediction">🏠 Housing Price Prediction</a> | Python · Jupyter | ML · Regression |
+| <a href="https://github.com/MH-SHUVO20/EDA-Project">📊 EDA Project</a> | Python · Jupyter | Data Science |
+| <a href="https://github.com/MH-SHUVO20/Foundations-of-Data-Science">📚 Foundations of Data Science</a> | Python · Jupyter | Data Science |
+| <a href="https://github.com/MH-SHUVO20/Bangladeshi_taka_note_detection_api">💰 Bangladeshi Taka Note Detection API</a> | Python | Computer Vision |
 
 </div>
 
@@ -66,7 +102,7 @@ Status   : Open to collaborate on Open Source
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MH-SHUVO20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MH-SHUVO20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">

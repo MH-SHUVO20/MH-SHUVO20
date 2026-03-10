@@ -1,33 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MH%20SHUVO&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MH%20SHUVO&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20AI%2FML%20Engineer%20%26%20AI%20Researcher&descAlignY=58&descSize=18" />
 
 </div>
 
 <div align="center">
   <a href="https://x.com/mehedi__shuvo"><img src="https://img.shields.io/twitter/follow/MH_SHUVO20?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000" alt="Twitter" /></a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=MH-SHUVO20&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
   <a href="https://www.linkedin.com/in/md-mehedi-hasan-shuvo-620416255/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 <br/>
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="AI" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
 ```yaml
-Name     : Md. Mehedi Hasan Shuvo
-From     : Bangladesh 🇧🇩
-Role     : Full Stack Developer & ML Enthusiast
-Focus    : Building impactful, scalable solutions
-Status   : Open to collaborate on Open Source
+Name      : Md. Mehedi Hasan Shuvo
+Location  : Bangladesh
+Goal      : Aspiring AI/ML Engineer & AI Researcher
+Interests : Machine Learning · NLP · Deep Learning
+            Computer Vision · AI Agents · LLMs
+Status    : Open to Research Collaborations
 ```
 
-- 🔭 Currently working on **[AIUB Shuttle Management System](https://github.com/Mahbubul-Islam/AIUB_SHUTTLE_MANAGEMENT_SYSTEM1)**
-- 🌱 Learning **Machine Learning · Web Development · AI · C#**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Software Development & Problem Solving**
+- 🔬 Aspiring **AI/ML Engineer & AI Researcher**
+- 🤖 Passionate about **AI Agents, LLMs & Generative AI**
+- 🧬 Exploring **NLP, Deep Learning, Computer Vision & Transformers**
+- 🌱 Currently learning **AI Research Methods · Deep Learning · MLOps**
+- 👯 Looking to collaborate on **AI/ML Open Source Projects**
+- 💬 Ask me about **Machine Learning, AI & Problem Solving**
 - 📫 Reach me at **mdmehedihasanshuvo994@gmail.com**
 
 <br clear="right"/>
@@ -38,19 +43,30 @@ Status   : Open to collaborate on Open Source
 
 <div align="center">
 
-### Languages
+### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Frontend
+### 🤖 AI / ML / Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🌐 Web & Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🗄️ Database
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
@@ -66,7 +82,7 @@ Status   : Open to collaborate on Open Source
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MH-SHUVO20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MH-SHUVO20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -99,5 +115,5 @@ Status   : Open to collaborate on Open Source
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>

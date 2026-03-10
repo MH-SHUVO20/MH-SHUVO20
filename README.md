@@ -1,44 +1,103 @@
-[![MasterHed](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://debashis50.io)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm MH SHUVO</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MH%20SHUVO&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=16" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MH-SHUVO20&label=Profile%20views&color=0e75b6&style=flat" alt="MH-SHUVO20" /> </p>
+</div>
 
-<p align="left"> <a href="https://x.com/mehedi__shuvo" target="blank"><img src="https://img.shields.io/twitter/follow/MH_SHUVO20?logo=twitter&style=for-the-badge" alt="@MH_SHUVO20" /></a> </p>
+<div align="center">
+  <a href="https://x.com/mehedi__shuvo"><img src="https://img.shields.io/twitter/follow/MH_SHUVO20?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000" alt="Twitter" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MH-SHUVO20&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/md-mehedi-hasan-shuvo-620416255/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
-- 📫 How to reach me **mdmehedihasanshuvo994@gmail.com**
+<br/>
 
-- 🔭 I’m currently working on [AIUB Shuttle Management System](https://github.com/Mahbubul-Islam/AIUB_SHUTTLE_MANAGEMENT_SYSTEM1) - An innovative solution for Shuttle Management.
-- 🌱 I’m currently learning **Machine Learning, Web Development, Ai, C#** to enhance my skills and build better applications.
-- 👯 I’m looking to collaborate on **Open Source Projects** that make a difference.
-- 💬 Ask me about **Software Development, Problem Solving, and anything tech-related**.
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/mehedi__shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@MH_SHUVO20" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-mehedi-hasan-shuvo-620416255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mh-shuvo20" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mh.shuvo.7370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mh.shuvo20" height="30" width="40" /></a>
-<a href="https://www.instagram.com/its_mh_shuvo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mh.shuvo20" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/MH_SHUVO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mh.shuvo20" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-</a>
-</p>
-  
-</p>
+```yaml
+Name     : Md. Mehedi Hasan Shuvo
+From     : Bangladesh 🇧🇩
+Role     : Full Stack Developer & ML Enthusiast
+Focus    : Building impactful, scalable solutions
+Status   : Open to collaborate on Open Source
+```
+
+- 🔭 Currently working on **[AIUB Shuttle Management System](https://github.com/Mahbubul-Islam/AIUB_SHUTTLE_MANAGEMENT_SYSTEM1)**
+- 🌱 Learning **Machine Learning · Web Development · AI · C#**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Software Development & Problem Solving**
+- 📫 Reach me at **mdmehedihasanshuvo994@gmail.com**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MH-SHUVO20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MH-SHUVO20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MH-SHUVO20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MH-SHUVO20&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MH-SHUVO20&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mehedi__shuvo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mehedi-hasan-shuvo-620416255/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mh.shuvo.7370)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_mh_shuvo/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MH_SHUVO)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmehedihasanshuvo994@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>

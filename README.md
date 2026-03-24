@@ -1,153 +1,27 @@
-<div align="center">
+# 💫 About Me:
+🔭 I'm currently working on   NirovaAI (নিরোভা) — an AI health platform for<br>                               170M Bangladeshis with symptom tracking, dengue<br>                               detection, skin disease CV, RAG second opinion &<br>                               30-day health timeline (FastAPI + LangChain +<br>                               XGBoost + EfficientNet + Groq + MongoDB)<br><br>🤝 I'm looking to collaborate on   AI for social good, Computer Vision research,<br>                                    LLM agent systems & IEEE publications<br><br>🤲 I'm looking for help with   Scaling AI health products to production &<br>                                 connecting with the right research partners<br><br>🌱 I'm currently learning   Agentic AI workflows, full-stack AI system design,<br>                              RAG pipelines & AI product development at scale<br><br>💬 Ask me about   AI Research · AI Engineering · YOLOv11/v12 · LangChain ·<br>                   FastAPI · RAG pipelines · XGBoost · EfficientNet ·<br>                   Computer Vision · Deep Learning · IEEE paper writing ·<br>                   LLM Agents · ML model deployment & AI automation<br><br>⚡ Fun fact   I've published 5 IEEE papers, reviewed for 2 IEEE conferences,<br>              & been a passionate tutor for 6+ years — all still in undergrad!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Md.%20Mehedi%20Hasan%20Shuvo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🤖%20AI%2FML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Problem%20Solver&descSize=17&descAlignY=62&descAlign=50" />
 
-</div>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mh.shuvo.7370) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mh-shuvo-aiub) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdmehedihasanshuvo994@gmail.com) 
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/md-mehedi-hasan-shuvo-620416255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="https://x.com/mehedi__shuvo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-&nbsp;
-<a href="https://codeforces.com/profile/MH_SHUVO"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-&nbsp;
-<a href="https://www.facebook.com/mh.shuvo.7370"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-&nbsp;
-<a href="https://www.instagram.com/its_mh_shuvo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:mdmehedihasanshuvo994@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=MH-SHUVO20&label=Profile%20Views&color=6e40c9&style=for-the-badge" />
-
-</div>
-
----
-
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-## 🧠 Who Am I?
-
-```python
-class MH_SHUVO:
-    name      = "Md. Mehedi Hasan Shuvo"
-    location  = "Bangladesh 🇧🇩"
-    role      = "Aspiring AI/ML Engineer & AI Researcher"
-    interests = [
-        "Machine Learning", "Deep Learning",
-        "NLP", "Computer Vision",
-        "AI Agents", "LLMs",
-        "Generative AI", "Transformers"
-    ]
-    languages = ["Python", "C", "C#", "Java", "JavaScript", "PHP"]
-    learning  = "Deep Learning · LLMs · AI Research Methods"
-    open_to   = "AI/ML Collaborations & Research Opportunities"
-    contact   = "mdmehedihasanshuvo994@gmail.com"
-```
-
-<br clear="right"/>
-
----
-
-## 🚀 Featured AI & ML Projects
-
-<div align="center">
-
-| 🤖 Project | 📌 Description | 🏷️ Domain |
-|:---|:---|:---:|
-| [**LinkedIn AI Agent**](https://github.com/MH-SHUVO20/Linked-In-agent) | Intelligent AI agent for LinkedIn automation | `AI Agents` |
-| [**Multi-Tool AI Agent**](https://github.com/MH-SHUVO20/multi-tool-ai-agent-bd) | Multi-tool autonomous AI agent system | `AI Agents` |
-| [**Automated AI Article Analyzer**](https://github.com/MH-SHUVO20/Automated-AI-Article-Analyzer) | AI pipeline for automated article analysis | `NLP · AI` |
-| [**Sentiment Analysis — IMDB**](https://github.com/MH-SHUVO20/Sentiment-Analysis-on-IMDB-Movie-Reviews) | Deep learning sentiment analysis on movie reviews | `NLP · Deep Learning` |
-| [**Fine-Tuning Transformers for QA**](https://github.com/MH-SHUVO20/Fine-Tuning-Transformer-Models-for-Question-Answering) | Fine-tuned transformer models for question answering | `NLP · Transformers` |
-| [**Unsupervised Learning — Iris**](https://github.com/MH-SHUVO20/Unsupervised-Learning-on-the-Iris-Dataset-Clustering-Algorithms-and-PCA) | Clustering algorithms & PCA on Iris dataset | `ML · Unsupervised` |
-| [**Customer Churn Prediction**](https://github.com/MH-SHUVO20/Customer-Churn-Prediction-using-Machine-Learning) | ML classification model for churn prediction | `ML · Classification` |
-| [**Housing Price Prediction**](https://github.com/MH-SHUVO20/Housing-Price-Prediction) | Regression model for real estate pricing | `ML · Regression` |
-| [**Taka Note Detection API**](https://github.com/MH-SHUVO20/Bangladeshi_taka_note_detection_api) | Computer vision API for currency detection | `Computer Vision` |
-| [**EDA Project**](https://github.com/MH-SHUVO20/EDA-Project) | In-depth exploratory data analysis | `Data Science` |
-| [**Foundations of Data Science**](https://github.com/MH-SHUVO20/Foundations-of-Data-Science) | Core data science fundamentals & experiments | `Data Science` |
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### 🤖 AI / ML / Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🗄️ Database & Tools
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MH-SHUVO20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff" height="175"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MH-SHUVO20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=6e40c9&text_color=ffffff" height="175"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MH-SHUVO20&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=ff6b6b&currStreakLabel=6e40c9" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MH-SHUVO20&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff" />
-</div>
-
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MH-SHUVO20&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MH-SHUVO20&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MH-SHUVO20&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MH-SHUVO20&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MH-SHUVO20&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MH-SHUVO20&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MH-SHUVO20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-
-### 💬 *"The best way to predict the future is to create it."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
